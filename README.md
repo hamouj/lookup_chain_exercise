@@ -14,3 +14,9 @@ The `Chair` class has several superclasses and modules where Ruby can look for m
 1. "superclass"
 1. "superclass's module"
 1. "superclass's superclass"
+
+## Wrap Up
+
+* How does Ruby’s look up chain work? What is the order it checks things?
+* What are three methods you can use to learn about where a built in Ruby method gets its components?
+* Draw a diagram of where Ruby would look for the method ::new
